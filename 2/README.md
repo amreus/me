@@ -1,4 +1,5 @@
 # Keg Help Text
+
 NAME
 keg - create and manage knowledge exchange graphs
 
@@ -9,7 +10,7 @@ keg (kn)
 	keg COMMAND
 
 	COMMANDS
-e|edit          - choose and edit a specific node (default)
+	e|edit          - choose and edit a specific node (default)
 	help            - display help similar to man page format
 	conf            - manage conf in C:\Users\Jim\AppData\Roaming\keg\config.yaml
 	var             - cache variables in C:\Users\Jim\AppData\Local\keg\vars
