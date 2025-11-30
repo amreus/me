@@ -1,4 +1,3 @@
-2025-11-30 Sun 09:43
+[content/posts.md](content/blog.md) has the latest posts.
 
-Greetings. I hope you're doing well today. Once a year or so I get the urge to make my presence know to the world. Soon after, I realize no one really cares. But for anyone who may actually read this - I do hope you're doing well today.
-
+[Here will be some static content.]
