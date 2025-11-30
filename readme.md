@@ -1,1 +1,1 @@
-[Blog](dex/chamges.md)
+[Blog](dex/changes.md)
