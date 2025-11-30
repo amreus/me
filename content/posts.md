@@ -7,15 +7,16 @@ anything.  But for anyone who may actually read this - hello and I do hope
 you're doing well today.
 
 I have been thinking of using this `me` repo for my future projects. As a
-perpetual amatuer I work on things that interest me at the moment. I'm not
+perpetual amatuer I do things that interest me at the moment. I'm not
 writing any earth-shattering code here and it just seems like overkill to
-create a repo for some of the small, silly projects I have.
+create a repo just for the small, silly projects I play with.
 
-The way it could work is to put projects in their own folder under the
-`content` folder in order to keep the top-level tidy. Each project would get
-projects I think are interesting. If it works out, I'll move some of the its
-own `readme` file for details, and the top-level `readme` could link to
-non-popular repos here but leave the most popular in their own repos.
+If I put projects in their own folder under the `content` folder then the
+top-level folder stays tidy :thumbsup:. Each project uses a `readme` for a
+detailed explaination of that particular project.  Recent, interesting, or
+popular projects can be linked from the more static top-level `readme`. The
+`posts.md` can be used for blog posts and announcements.  Seems like an obvious
+and simple work flow.
 
 I think I'll try this out before pushing anything more for now.
 
